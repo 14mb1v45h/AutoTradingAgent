@@ -25,3 +25,5 @@ This application is an automated trading agent for cryptocurrencies, specificall
 
 1. Clone or download the repository/script.
 2. Install dependencies from `requirements.txt`:
+
+##AUTHOR : BIVASH NAYAK (iambivash.bn@proton.me)
